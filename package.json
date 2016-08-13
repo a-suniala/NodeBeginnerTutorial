@@ -1,0 +1,12 @@
+{
+  "name": "node-beginner-tutorial",
+  "version": "0.0.1",
+  "description": "A sample Node.js app based on tutorial at http://www.nodebeginner.org/",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "formidable": "^1.0.17"
+  }
+}
